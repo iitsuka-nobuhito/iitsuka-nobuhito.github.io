@@ -48,8 +48,8 @@
           "category": "lc-lab",
           "url": "https://iitsuka-nobuhito.github.io/arduino-bsp/boards/lclab_nRF52_Boards-0.1.1.tar.bz2",
           "archiveFileName": "lclab_nRF52_Boards-0.1.1.tar.bz2",
-          "checksum": "SHA-256:4AAC8C92C10EAC62FBA36952BC8895C5100052B14734096159CC979003C26FAF",
-          "size": "19579186",
+          "checksum": "SHA-256:5DF1B42B1A6F89950560AA4B6CCEA23DE9D00421D8328E6AFA8115B95C4EE629",
+          "size": "16916984",
           "boards": [
             {
               "name": "LIGHTCAFE LAB ModsRing nRF52840"
