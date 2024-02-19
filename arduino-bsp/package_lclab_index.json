@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Seeeduino",
+      "name": "LC-LAB-Boards",
       "maintainer": "LIGHTCAFE-LAB",
       "websiteURL": "https://lab.lightcafe.co.jp/",
       "email": "email",
@@ -26,17 +26,17 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "Seeeduino",
+              "packager": "LC-LAB-Boards",
               "name": "arm-none-eabi-gcc",
               "version": "9-2019q4"
             },
             {
-              "packager": "Seeeduino",
+              "packager": "LC-LAB-Boards",
               "name": "nrfjprog",
               "version": "9.4.0"
             },
             {
-              "packager": "Seeeduino",
+              "packager": "LC-LAB-Boards",
               "name": "CMSIS",
               "version": "5.7.0"
             }
