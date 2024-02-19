@@ -15,7 +15,7 @@
           "architecture": "nrf52",
           "version": "0.1.0",
           "category": "lc-lab",
-          "url": "https://iitsuka-nobuhito.github.io/arduino-bsp/lclab_nRF52_Boards-0.1.0.tar.bz2",
+          "url": "https://iitsuka-nobuhito.github.io/arduino-bsp/boards/lclab_nRF52_Boards-0.1.0.tar.bz2",
           "archiveFileName": "lclab_nRF52_Boards-0.1.0.tar.bz2",
           "checksum": "SHA-256:1CF69CFB2DE28EDDFA56C5AFEFAD9E8E708B00034DA146E94EF591E1E18E2043",
           "size": "19588211",
