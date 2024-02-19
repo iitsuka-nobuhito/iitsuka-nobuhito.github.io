@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "lclab-arduino-boards",
+      "name": "Seeeduino",
       "maintainer": "LIGHTCAFE-LAB",
       "websiteURL": "https://lab.lightcafe.co.jp/",
       "email": "email",
@@ -11,7 +11,7 @@
       "platforms": [
 
         {
-          "name": "lclab nRF52 Boards",
+          "name": "LIGHTCAFE LAB nRF52 Boards",
           "architecture": "nrf52",
           "version": "0.1.0",
           "category": "lc-lab",
