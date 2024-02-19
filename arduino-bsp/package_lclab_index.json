@@ -40,6 +40,38 @@
               "version": "5.7.0"
             }
           ]
+        },
+        {
+          "name": "LIGHTCAFE LAB nRF52 Boards",
+          "architecture": "nrf52",
+          "version": "0.1.1",
+          "category": "lc-lab",
+          "url": "https://iitsuka-nobuhito.github.io/arduino-bsp/boards/lclab_nRF52_Boards-0.1.1.tar.bz2",
+          "archiveFileName": "lclab_nRF52_Boards-0.1.1.tar.bz2",
+          "checksum": "SHA-256:4AAC8C92C10EAC62FBA36952BC8895C5100052B14734096159CC979003C26FAF",
+          "size": "19579186",
+          "boards": [
+            {
+              "name": "LIGHTCAFE LAB ModsRing nRF52840"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "LC-LAB-Boards",
+              "name": "arm-none-eabi-gcc",
+              "version": "9-2019q4"
+            },
+            {
+              "packager": "LC-LAB-Boards",
+              "name": "nrfjprog",
+              "version": "9.4.0"
+            },
+            {
+              "packager": "LC-LAB-Boards",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            }
+          ]
         }
       ],
       "tools": [
